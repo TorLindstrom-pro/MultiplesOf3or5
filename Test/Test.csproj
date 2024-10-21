@@ -21,4 +21,8 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MultiplesOf3or5\MultiplesOf3or5.csproj" />
+  </ItemGroup>
+
 </Project>
